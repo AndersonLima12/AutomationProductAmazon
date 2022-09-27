@@ -5,7 +5,7 @@ Projeto de automação desenvolvido em python utilizando selenium. O projeto foi
 
 ## Proposta
 
-Este projeto teste oferecido pela Fácil Consulta.
+Este projeto foi desenvolvido para um trabalho acadêmico da matéria de Aplicação de cloud, iot e indústria 4.0 em python. 
 
 ## O que encontrar neste projeto
 
@@ -29,11 +29,11 @@ python3.7 main.py
 ## Resultados
 
 ### Execução
-![TelaDeskPage1](/img/AutomacaoPython-execucao.gif)
+![TelaDeskPage1](/img/Execucao.gif)
 <br>
 
 ### Resultado
-![TelaDeskPage3](/img/AutomacaoPython-resultado.gif)
+![TelaDeskPage3](/img/Resultado.gif)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

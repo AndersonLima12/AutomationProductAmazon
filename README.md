@@ -34,6 +34,3 @@ python3.7 main.py
 
 ### Resultado
 ![TelaDeskPage3](/img/Resultado.gif)
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

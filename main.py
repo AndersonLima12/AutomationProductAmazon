@@ -4,9 +4,9 @@ print('''
     ###########################################################
     #               Anderson Nunes de Lima                    #
     #                                                         #
-    # Teste de progracao proposto pela BPA                    #
     #                                                         #
     # Requisitos: Python3.7, Chrome Browser                   #
+    #                                                         #
     #                                                         #
     # Dependencia: realize a instalacao das dependencias      #
     # necessarias atravez do comando:                         #
